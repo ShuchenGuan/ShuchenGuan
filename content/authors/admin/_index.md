@@ -17,7 +17,7 @@ organizations:
 bio: Hi, there. Welcome to my personal page, I would be very happy to hear from you!
 
 # Interests to show in About widget
-Academic interests:
+Research interests:
 - Color perception
 - Neural mechanism of vision
 - Auditory-visual intergration
