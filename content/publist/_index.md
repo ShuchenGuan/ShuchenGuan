@@ -81,4 +81,4 @@ Conference Contributions
 Summer School
 -------------
 
--   **Aug.2019: The European Summer School on Visual Neuroscience**
+-   **Aug.2018: The European Summer School on Visual Neuroscience**
