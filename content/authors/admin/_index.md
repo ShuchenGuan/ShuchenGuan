@@ -6,7 +6,7 @@ title: Shuchen Guan
 superuser: true
 
 # Role/position/tagline
-role: Post-doctoral Researcher of Psychology
+role: Post-doctoral Researcher in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,13 +14,13 @@ organizations:
   url: https://www.uni-giessen.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include color vision, human perception and VR.
+bio: Hi, there. Welcome to my personal page, I would be very happy to hear from you!
 
 # Interests to show in About widget
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Academic interests:
+- Color perception
+- Neural mechanism of vision
+- Auditory-visual intergration
 
 # Education to show in About widget
 education:
