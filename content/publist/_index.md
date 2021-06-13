@@ -6,12 +6,12 @@ Publications
 Peer-reviewed Publications
 --------------------------
 
--   **Guan, S.C.${\\rm^{\*}}$**, Ju, N.S.${\\rm^{\*}}$, Tang, S.M.,&
+-   **Guan, S.C.*,** Ju, N.S.*, Tang, S.M.,&
     Yu, C. (2021). Two-photon calcium imaging at single neuron
     resolution reveals near absence of spatial frequency clusters and
     columns in macaque V1. *Progress in Neurobiology* (in revision).
 
--   Ju, N.S.${\\rm^{\*}}$, **Guan, S.C.${\\rm^{\*}}$**, Tao, L., Tang,
+-   Ju, N.S.*, **Guan, S.C.*,** Tao, L., Tang,
     S.M., & Yu, C. (2021). Orientation tuning and end-stopping in
     macaque V1 studied with two-photon calcium imaging. *Cerebral
     Cortex*, 31(4), 2085-2097.
