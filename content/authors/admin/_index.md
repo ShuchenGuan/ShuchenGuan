@@ -20,6 +20,7 @@ bio: Hi, there. Welcome to my personal page, I would be very happy to hear from 
 interests:
 - Color vision
 - Neural mechanism of vision
+- Perceptual learning
 - Auditory-visual intergration
 
 # Education to show in About widget
