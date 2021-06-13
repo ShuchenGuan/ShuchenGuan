@@ -3,12 +3,13 @@ title: Two-photon calcium imaging at single neuron resolution reveals near
   absence of spatial frequency clusters and columns in macaque V1
 publication_types:
   - "2"
-authors: []
+authors:
+  - "["
 author_notes:
   - Equal contribution
   - Equal contribution
 publication: Progress in Neurobiology (in revision)
-draft: false
+draft: true
 featured: true
 image:
   filename: featured
