@@ -18,7 +18,7 @@ bio: Hi, there. Welcome to my personal page, I would be very happy to hear from 
 
 # Interests to show in About widget
 interests:
-- Color perception
+- Color vision
 - Neural mechanism of vision
 - Auditory-visual intergration
 
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:me@shuchen.de
+  link: '/#contact'
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://www.researchgate.net/profile/Shuchen-Guan
@@ -61,6 +61,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a post-doctoral researcher in Prof. Karl Gegenfurtner's lab at Justus-Liebig-Universität Gießen. My research focuses on visual perception and its underlying neural mechanisms. include color v, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
