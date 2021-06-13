@@ -61,6 +61,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a post-doctoral researcher in Prof. Karl Gegenfurtner's lab at Justus-Liebig-Universität Gießen. My research focuses on visual perception and its underlying neural mechanisms. include color v, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a post-doctoral researcher in Prof. Karl Gegenfurtner's lab at Justus-Liebig-Universität Gießen. My research focuses on visual perception and its underlying neural mechanisms by combining psychophysics, two-photon calcium imaging, and modeling.
+
+Lights exist everywhere, but how humans perceive the brightness of real-life illuminations is less studied. To address this, I am using LED lamps to measure human brightness perception and their corresponding pupillary responses.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
