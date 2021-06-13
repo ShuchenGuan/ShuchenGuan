@@ -4,14 +4,8 @@ title: Two-photon calcium imaging at single neuron resolution reveals near
 publication_types:
   - "2"
 authors:
-  - Guan
-  - S.C.
-  - Ju
-  - N.S.
-  - Tang
-  - S.M.
-  - "& Yu"
-  - C.
+  - fdsasfdfsddsf
+  - sdfsdfsdfds
 author_notes:
   - Equal contribution
   - Equal contribution
