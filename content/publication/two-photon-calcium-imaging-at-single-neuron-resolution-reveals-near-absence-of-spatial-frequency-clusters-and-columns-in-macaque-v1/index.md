@@ -13,8 +13,8 @@ authors:
   - "& Yu"
   - C.
 author_notes:
-  - equal
-  - equal
+  - Equal contribution
+  - Equal contribution
 publication: Progress in Neurobiology (in revision)
 draft: true
 featured: true
