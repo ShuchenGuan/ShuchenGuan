@@ -11,7 +11,7 @@ Peer-reviewed Publications
     resolution reveals near absence of spatial frequency clusters and
     columns in macaque V1. *Progress in Neurobiology* (in revision).
 
--   Ju, N.S.*, **Guan, S.C.*,** Tao, L., Tang,
+-   Ju, N.S.*,  **Guan, S.C.*,** Tao, L., Tang,
     S.M., & Yu, C. (2021). Orientation tuning and end-stopping in
     macaque V1 studied with two-photon calcium imaging. *Cerebral
     Cortex*, 31(4), 2085-2097.
@@ -31,11 +31,11 @@ Peer-reviewed Publications
 Manuscripts in Preparation
 --------------------------
 
--   Xiong, Y.Z.${\\rm^{\*}}$,**Guan, S.C.${\\rm^{\*}}$**, & Yu, C.
+-   Xiong, Y.Z.*,**Guan, S.C.***, & Yu, C.
     Perceptual learning evidence for an interval- and modality-invariant
     representation of subsecond time. *bioRxiv*.
 
--   Ju, N.S.${\\rm^{\*}}$, **Guan, S.C.${\\rm^{\*}}$**, Tang, S.M., &
+-   Ju, N.S.*, **Guan, S.C.***, Tang, S.M., &
     Yu, C. (2021). Macaque V1 responses to 2nd-order contrast-modulated
     stimuli and the possible subcortical and cortical contributions.
     *bioRxiv*.
