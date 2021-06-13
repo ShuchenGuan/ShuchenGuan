@@ -18,7 +18,8 @@ main:
   #  url: '#talks'
   #  weight: 40
   - name: Publications
-    url: '#featured'
+    pre: "<i class=\"fas fa-bars\" style=\"color: #000000;\"></i>"
+    url: "/publist/"
     weight: 50
   #- name: Contact
   #  url: '#contact'
