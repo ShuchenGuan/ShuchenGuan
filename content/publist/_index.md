@@ -8,9 +8,9 @@ toc = true # Show table of contents? true/false
 type = "docs" # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.publist]
-  name = ""
-  weight = 1
+# [menu.publist]
+#  name = ""
+#  weight = 1
 +++
 
 ## **Preprints & under review**  
