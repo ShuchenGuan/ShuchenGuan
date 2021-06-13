@@ -1,7 +1,7 @@
 Publications
 ============
 
-(${\\rm^{\*}}$ means contribute equally)
+（* means contribute equally)
 
 Peer-reviewed Publications
 --------------------------
