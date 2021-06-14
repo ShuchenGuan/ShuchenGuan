@@ -8,6 +8,10 @@ main:
     pre: "<i class=\"fas fa-home\" style=\"color: #000000;\"></i>"
     url: '#about'
     weight: 10
+  - name: Bio
+    pre: "<i class=\"fas fa-bars\" style=\"color: #000000;\"></i>"
+    url: "/publist/"
+    weight: 20
   #- name: Posts
   #  url: '#posts'
   #  weight: 20
