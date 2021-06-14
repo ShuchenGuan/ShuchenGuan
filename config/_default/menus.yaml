@@ -9,7 +9,7 @@ main:
     url: '#about'
     weight: 10
   - name: Bio
-    pre: "<i class=\"fas fa-bars\" style=\"color: #000000;\"></i>"
+    pre: "<i class=\"far fa-address-card\" style=\"color: #000000;\"></i>"
     url: "/publist/"
     weight: 20
   #- name: Posts
