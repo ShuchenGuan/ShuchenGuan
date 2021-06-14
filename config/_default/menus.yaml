@@ -22,7 +22,7 @@ main:
   #  url: '#talks'
   #  weight: 40
   - name: Publications
-    pre: "<i class=\"fas fa-bars\" style=\"color: #000000;\"></i>"
+    pre: "<i class=\"fas fa-book\" style=\"color: #000000;\"></i>"
     url: "/publist/"
     weight: 50
   #- name: Contact
