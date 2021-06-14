@@ -22,15 +22,15 @@ twitter: ''
 
 email: me@shuchen.de
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Justus-Liebig University Giessen, FB 06 Psychology and Sports-Sciences, Otto-Behaghel-Str. 10F
+  city: Gießen
+  region: HE
+  postcode: '35394'
+  country: Germany
+  country_code: DE
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
+  latitude: '50.576682917631466'
+  longitude: '8.69286736069955'
 
 # Site header
 
