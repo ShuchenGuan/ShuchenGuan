@@ -77,8 +77,3 @@ Conference Contributions
     Guan, S.C., Xiong, Y.Z., & Yu, C. Mutual transfer between visual and
     auditory temporal interval learning supports a central clock in
     temporal processing, **poster**.
-
-Summer School
--------------
-
--   **Aug.2018: The European Summer School on Visual Neuroscience**
