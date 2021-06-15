@@ -12,7 +12,7 @@ Education:
   - PhD in Psychology (2020)  
     *Peking University* (Beijing, China)  
       
-      
+     &nbsp;
   - BSc in Psychology and Cognitive Science (2015)  
     *East China Normal Univeristy* (Shanghai, China)
 
