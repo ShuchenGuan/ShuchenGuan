@@ -16,6 +16,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Hi, there. Welcome to my personal page, I would be very happy to hear from you!
 
+# Interests to show in About widget
+interests:
+- Color vision
+- Neural mechanism of vision
+- Perceptual learning
+- Auditory-visual intergration
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
