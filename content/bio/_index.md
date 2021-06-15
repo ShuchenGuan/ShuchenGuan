@@ -1,16 +1,19 @@
-# Interests to show in About widget
-interests:
+
+Interests
+-------------
 - Color vision
 - Neural mechanism of vision
 - Perceptual learning
 - Auditory-visual intergration
 
-# Education to show in About widget
-education:
-  courses:
-  - course: PhD in Psychology
-    institution: Peking University
-    year: 2020
-  - course: BSc in Psychology and Cognitive Science
-    institution: East China Normal Univeristy
-    year: 2015
+
+Education:
+-------------
+  - PhD in Psychology (2020)  
+    *Peking University*  
+  - BSc in Psychology and Cognitive Science (2015)  
+    *East China Normal Univeristy*
+    
+Summer School
+-------------
+- Aug.2018: The European Summer School on Visual Neuroscience
