@@ -61,7 +61,7 @@ Conference Contributions
 -   **Aug.2018: The European Conference on Visual Perception**
     Guan, S.C., Ju, N.S., Tang, S.M., & Yu, C. Two-photon imaging
     evidence for neurons specialized in 2nd-order stimulus processing in
-    macaque V1, **talk**. https://doi/full/10.1177/0301006618824879
+    macaque V1, **talk**. https://journals.sagepub.com/doi/pdf/10.1177/0301006618824879
 
 -   **May.2018: Vision Science Society**
     Guan, S.C., Ju, N.S., Tang, S.M., & Yu, C. Two-photon imaging
