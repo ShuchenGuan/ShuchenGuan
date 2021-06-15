@@ -10,7 +10,7 @@ main:
     weight: 10
   - name: Bio
     pre: "<i class=\"far fa-address-card\" style=\"color: #000000;\"></i>"
-    url: "/publist/"
+    url: "/bio/"
     weight: 20
   #- name: Posts
   #  url: '#posts'
@@ -26,9 +26,10 @@ main:
     url: "/publist/"
     weight: 50
   - name: Contact
+    pre: "<i class=\"far fa-envelope\" style=\"color: #000000;\"></i>"
     url: '#contact'
     weight: 60
-
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
