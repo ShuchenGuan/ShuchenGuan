@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: &nbsp;Home
+  - name:   Home
     pre: "<i class=\"fas fa-home\" style=\"color: #000000;\"></i>"
     url: '#about'
     weight: 10
