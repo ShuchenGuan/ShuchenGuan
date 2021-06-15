@@ -7,7 +7,7 @@ Academic Experience
 
 &nbsp;
 
-Education:
+Education
 -------------
   - PhD in Psychology (2020)  
     *Peking University* (Beijing, China)  
