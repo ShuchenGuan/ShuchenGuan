@@ -14,7 +14,7 @@ Peer-reviewed Publications
 -   Ju, N.S.*, **Guan, S.C.\*,** Tao, L., Tang,
     S.M., & Yu, C. (2021). Orientation tuning and end-stopping in
     macaque V1 studied with two-photon calcium imaging. *Cerebral
-    Cortex*, 31(4), 2085-2097.
+    Cortex*, 31(4), 2085-2097. https://doi.org/10.1093/cercor/bhaa346
 
 -   **Guan, S.C.**, Zhang, S.H., Zhang, Y.C., Tang, S.M., & Yu, C.
     (2020). Plaid detectors in macaque V1 revealed by two-photon calcium
