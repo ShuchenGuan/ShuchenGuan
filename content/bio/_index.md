@@ -1,7 +1,7 @@
 Academic Experience
 -------------
-Sep.2021         Post-doctoral researcher  
-[*Department of Psychology*] (https://www.uni-giessen.de/faculties/f06/psy)
+Sep.2021 Post-doctoral researcher  
+*Department of Psychology*
 Justus-Liebig-Universität Gießen (Gießen, Germany)
  
 Advisor: Karl Gegenfurtner
