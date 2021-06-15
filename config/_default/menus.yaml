@@ -5,7 +5,7 @@
 
 main:
   - name:   Home
-    pre: "<i class=\"fas fa-home\" style=\"color: #000000;\"></i>"
+    pre: "<i class=\"fas fa-home\" style=\"color: #000000;\"></i> &nbsp;"
     url: '#about'
     weight: 10
   - name:   Bio
