@@ -4,11 +4,11 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: &thinsp;Home
     pre: "<i class=\"fas fa-home\" style=\"color: #000000;\"></i>"
     url: '#about'
     weight: 10
-  - name: Bio
+  - name: &thinsp;Bio
     pre: "<i class=\"far fa-address-card\" style=\"color: #000000;\"></i>"
     url: "/bio/"
     weight: 20
@@ -21,11 +21,11 @@ main:
   #- name: Talks
   #  url: '#talks'
   #  weight: 40
-  - name: Publications
+  - name: &thinsp;Publications
     pre: "<i class=\"fas fa-book\" style=\"color: #000000;\"></i>"
     url: "/publist/"
     weight: 50
-  - name: Contact
+  - name: &thinsp;Contact
     pre: "<i class=\"far fa-envelope\" style=\"color: #000000;\"></i>"
     url: '#contact'
     weight: 60
