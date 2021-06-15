@@ -1,10 +1,10 @@
 Academic Experience
 -------------
--Sep.2021                    Post-doctoral researcher  
- *Department of Psychology*  
- Justus-Liebig-Universität Gießen (Gießen, Germany)
+Sep.2021                    Post-doctoral researcher  
+*Department of Psychology*  
+Justus-Liebig-Universität Gießen (Gießen, Germany)
  
- Advisor: Karl Gegenfurtner
+Advisor: Karl Gegenfurtner
 
 
 Interests
