@@ -3,19 +3,10 @@ Academic Experience
 Sep.2021 Post-doctoral researcher  
 [Department of Psychology](https://www.uni-giessen.de/faculties/f06/psy)  
 Justus-Liebig-Universität Gießen (Gießen, Germany)
- 
 Advisor: Karl Gegenfurtner
 
 &nbsp;
 &nbsp;
-
-Interests
--------------
-- Color vision
-- Neural mechanism of vision
-- Perceptual learning
-- Auditory-visual intergration
-
 
 
 Education:
