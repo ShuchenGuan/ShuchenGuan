@@ -1,0 +1,8 @@
+# Optional Google font URL
+google_fonts = ""
+
+# Font families
+heading_font = ""
+body_font = "usual, Helvetica Neue, Arial, sans-serif"
+nav_font = ""
+mono_font = ""
