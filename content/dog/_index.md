@@ -1,2 +1,2 @@
-![dog](/dog/mydog.jpg)
+![dog](/dog/mydog.png)
 Academic Experience
