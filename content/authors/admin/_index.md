@@ -32,10 +32,11 @@ social:
   icon_pack: fas
   link: mailto:me@shuchen.de
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.researchgate.net/profile/Shuchen-Guan
 - icon: dog
   icon_pack: fas 
+  link: /dog/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
