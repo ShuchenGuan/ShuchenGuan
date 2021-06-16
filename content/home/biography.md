@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-<font size=4> I am a post-doctoral researcher in Prof. Karl Gegenfurtner's lab at Justus-Liebig-Universität Gießen. My research focuses on visual perception and its underlying neural mechanisms by combining psychophysics, eye-tracking, two-photon calcium imaging, and modeling.
+<font size=5> I am a post-doctoral researcher in Prof. Karl Gegenfurtner's lab at Justus-Liebig-Universität Gießen. My research focuses on visual perception and its underlying neural mechanisms by combining psychophysics, eye-tracking, two-photon calcium imaging, and modeling.
 
 Lights exist everywhere, but how humans perceive the brightness of real-life illuminations is less studied. To address this, I use LED lamps to measure human brightness perception and their corresponding pupillary responses.
 
