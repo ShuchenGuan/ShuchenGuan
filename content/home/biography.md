@@ -18,7 +18,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: a2.jpg
+    image: a3.png
     image_darken: 1.0
     image_parallax: true
     image_position: center
