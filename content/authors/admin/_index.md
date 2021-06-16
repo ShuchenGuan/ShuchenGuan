@@ -34,6 +34,9 @@ social:
 - icon: researchgate  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fab
   link: https://www.researchgate.net/profile/Shuchen-Guan
+- icon: google_scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?hl=en&user=JkP8BCgAAAAJ&view_op=list_works&sortby=pubdate
 - icon: dog
   icon_pack: fas 
   link: /dog/
