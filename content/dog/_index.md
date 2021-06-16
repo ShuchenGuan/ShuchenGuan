@@ -1,1 +1,1 @@
-
+[avatar](/dog/timg.jpg)
