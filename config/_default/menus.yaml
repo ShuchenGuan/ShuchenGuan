@@ -8,7 +8,7 @@ main:
    # pre: "<i class=\"fas fa-home\" style=\"color: #000000;\"></i> &thinsp;"
     url: '#about'
     weight: 10
-  - name:   Bio
+  - name:   Biography
    # pre: "<i class=\"far fa-address-card\" style=\"color: #000000;\"></i> &thinsp;"
     url: "/bio/"
     weight: 20
