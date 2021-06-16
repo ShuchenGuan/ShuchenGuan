@@ -5,11 +5,11 @@
 
 main:
   - name:   Home
-    pre: "<i class=\"fas fa-home\" style=\"color: #000000;\"></i> &thinsp;"
+   # pre: "<i class=\"fas fa-home\" style=\"color: #000000;\"></i> &thinsp;"
     url: '#about'
     weight: 10
   - name:   Bio
-    pre: "<i class=\"far fa-address-card\" style=\"color: #000000;\"></i> &thinsp;"
+   # pre: "<i class=\"far fa-address-card\" style=\"color: #000000;\"></i> &thinsp;"
     url: "/bio/"
     weight: 20
   #- name: Posts
@@ -22,11 +22,11 @@ main:
   #  url: '#talks'
   #  weight: 40
   - name:   Publications
-    pre: "<i class=\"fas fa-book\" style=\"color: #000000;\"></i> &thinsp;"
+  #  pre: "<i class=\"fas fa-book\" style=\"color: #000000;\"></i> &thinsp;"
     url: "/publist/"
     weight: 50
   - name:   Contact
-    pre: "<i class=\"far fa-envelope\" style=\"color: #000000;\"></i> &thinsp;"
+  #  pre: "<i class=\"far fa-envelope\" style=\"color: #000000;\"></i> &thinsp;"
     url: '#contact'
     weight: 60
   
