@@ -9,7 +9,7 @@ Peer-reviewed Publications
 -   **Guan, S.C.\*,** Ju, N.S.\*, Tang, S.M.,&
     Yu, C. (2021). Two-photon calcium imaging at single neuron
     resolution reveals near absence of spatial frequency clusters and
-    columns in macaque V1. *Progress in Neurobiology* (in revision).
+    columns in macaque V1. *Progress in Neurobiology* (in press).
 
 -   Ju, N.S.*, **Guan, S.C.\*,** Tao, L., Tang,
     S.M., & Yu, C. (2021). Orientation tuning and end-stopping in
