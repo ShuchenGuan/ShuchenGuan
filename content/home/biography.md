@@ -34,10 +34,10 @@ Lights exist everywhere, but how humans perceive the brightness of real-life ill
 
 Another question that intrigues me is how visual perception can be connected with neuronal activities. For example, how the brain discriminates different colors, how it assists us in maintaining color constancy, how it processes simple visual stimuli and higher-order complex stimuli. To study this, I apply two-photon calcium imaging to record neuronal responses in macaque monkeys.
 
-I am also interested in brain plasticity, particularly in multi-sensory perceptual learning. By using a specific training method, I found the modality specificities can be easily erased, visual learning can improve auditory perception, and also the vice versa. 
+I am also interested in brain plasticity, particularly in multi-sensory perceptual learning. Using a specific training method, I found modality specificities can be easily erased. Visual learning can improve auditory perception and also vice versa. 
 
 Interests:
 - Color vision
 - Neural mechanism of vision
 - Perceptual learning
-- Auditory-visual intergration </font>
+- Auditory-visual integration </font>
