@@ -20,4 +20,5 @@ Education
   
 Summer School
 -------------
+  - Aug.2020: International Colour Vision Society Summer School
   - Aug.2018: The European Summer School on Visual Neuroscience
