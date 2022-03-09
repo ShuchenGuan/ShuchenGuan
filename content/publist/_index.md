@@ -27,15 +27,15 @@ Peer-reviewed Publications
     X.C. (2014). Neural substrate of initiation of cross-modal working
     memory retrieval. *PLoS ONE*, 9(8). https://doi.org/10.1371/journal.pone.0103991
 
-Manuscripts in Preparation
+Manuscripts under Revision
 --------------------------
 
 -   Xiong, Y.Z.*,**Guan, S.C.\***, & Yu, C.
-    Cross-modal transfer of visual and auditory perceptual learning of subsecond time interval discrimination with double training. *Scientific Reports*, Revise.
+    Cross-modal transfer of visual and auditory perceptual learning of subsecond time interval discrimination with double training. *Scientific Reports*.
 
 -   Ju, N.S.*, **Guan, S.C.\***, Tang, S.M., &
     Yu, C. Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.
-    *Progress in Neurobiology*, Revise.
+    *Progress in Neurobiology*.
 
 Conference Contributions
 ------------------------
