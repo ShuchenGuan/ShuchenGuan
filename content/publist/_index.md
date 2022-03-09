@@ -31,11 +31,11 @@ Manuscripts in Preparation
 --------------------------
 
 -   Xiong, Y.Z.*,**Guan, S.C.\***, & Yu, C.
-    Cross-modal transfer of visual and auditory perceptual learning of subsecond time interval discrimination with double training. *Scientific Reports*, (In Revision).
+    Cross-modal transfer of visual and auditory perceptual learning of subsecond time interval discrimination with double training. *Scientific Reports*, Revise.
 
 -   Ju, N.S.*, **Guan, S.C.\***, Tang, S.M., &
     Yu, C. Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.
-    *Progress in Neurobiology*, (In Revision).
+    *Progress in Neurobiology*, Revise.
 
 Conference Contributions
 ------------------------
