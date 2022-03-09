@@ -31,13 +31,11 @@ Manuscripts in Preparation
 --------------------------
 
 -   Xiong, Y.Z.*,**Guan, S.C.\***, & Yu, C.
-    Perceptual learning evidence for an interval- and modality-invariant
-    representation of subsecond time. *bioRxiv*. https://doi.org/10.1101/794032
+    Cross-modal transfer of visual and auditory perceptual learning of subsecond time interval discrimination with double training. *Scientific Reports*, (In Revision).
 
 -   Ju, N.S.*, **Guan, S.C.\***, Tang, S.M., &
-    Yu, C. (2021). Macaque V1 responses to 2nd-order contrast-modulated
-    stimuli and the possible subcortical and cortical contributions.
-    *bioRxiv*. https://doi.org/10.1101/2021.01.28.428627
+    Yu, C. Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.
+    *Progress in Neurobiology*, (In Revision).
 
 Conference Contributions
 ------------------------
