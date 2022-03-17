@@ -37,7 +37,7 @@ Another question that intrigues me is how visual perception can be connected wit
 I am also interested in brain plasticity, particularly in multi-sensory perceptual learning. Using a specific training method, I found modality specificities can be easily erased. Visual learning can improve auditory perception and also vice versa. 
 
 Interests:
-- Color vision
+- Color vision: heterochromatic brightness, lights and illuminations, color constancy
 - Neural mechanism of vision
 - Perceptual learning
 - Auditory-visual integration </font>
