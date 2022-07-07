@@ -33,11 +33,12 @@ Peer-reviewed Publications
     X.C. (2014). Neural substrate of initiation of cross-modal working
     memory retrieval. *PLoS ONE*, 9(8). https://doi.org/10.1371/journal.pone.0103991
 
-# Manuscripts under Revision
--------------------------- #
 
 Conference Contributions
 ------------------------
+-   **May.2022: Vision Science Society**
+    Guan, S.C., Toscani, M., & Gegenfurtner, K. Heterochromatic brightness perception of illuminants, 
+    **poster**.
 
 -   **May.2020: Vision Science Society**
     Guan, S.C., Zhao, X.N., Xiong, Y.Z., & Yu, C. Supramodal
