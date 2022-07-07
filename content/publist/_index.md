@@ -5,6 +5,8 @@ Publications
 
 Peer-reviewed Publications
 --------------------------
+-   Xiong, Y.Z.*,**Guan, S.C.\***, & Yu, C. (2022)
+    A supramodal and conceptual representation of subsecond time revealed with perceptual learning of temporal interval discrimination. *Scientific Reports*, 12(1), 1-9. https://doi.org/10.1038/s41598-022-14698-6
 
 -   **Guan, S.C.\*,** Ju, N.S.\*, Tao, L., Tang, S.M.,&
     Yu, C. (2021). Functional organization of spatial frequency tuning in macaque V1 revealed with two-photon calcium imaging. *Progress in Neurobiology*, 205, 102120. https://doi.org/10.1016/j.pneurobio.2021.102120
@@ -29,9 +31,6 @@ Peer-reviewed Publications
 
 Manuscripts under Revision
 --------------------------
-
--   Xiong, Y.Z.*,**Guan, S.C.\***, & Yu, C.
-    Cross-modal transfer of visual and auditory perceptual learning of subsecond time interval discrimination with double training. *Scientific Reports*.
 
 -   Ju, N.S.*, **Guan, S.C.\***, Tang, S.M., &
     Yu, C. Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.
