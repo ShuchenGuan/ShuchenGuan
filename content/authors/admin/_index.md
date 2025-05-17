@@ -21,7 +21,8 @@ interests:
 - Color vision
 - Neural mechanism of vision
 - Perceptual learning
-- Auditory-visual intergration
+- Multisensory integration
+- Serial dependence
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
