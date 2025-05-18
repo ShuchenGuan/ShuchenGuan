@@ -75,7 +75,7 @@ Conference Contributions
 ------------------------
 -   **May.2022: Vision Science Society**
     Guan, S.C., Toscani, M., & Gegenfurtner, K. Heterochromatic brightness perception of illuminants, 
-    **poster**.
+    **poster**. https://doi.org/10.1167/jov.22.14.4022
 <p style="line-height:30;">             </p>
     
 
