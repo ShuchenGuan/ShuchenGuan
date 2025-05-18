@@ -18,39 +18,57 @@ Double training reveals an interval-invariant subsecond temporal structure in th
 -   **Guan, S.C.\***, Xiong, Y.Z.*, & Yu, C. (2024)
     Double training reveals an interval-invariant subsecond temporal structure in the brain. *Journal of Experimental Psychology: Human Perception and Performance*,  50(12), 1225–1235.  https://doi.org/10.1177/03010066241270271
 <p style="line-height:30;">             </p>
+
     
 -   Zhao, X.N.*, **Guan, S.C.\***, Xiong, Y.Z., & Yu, C. (2024)
      Crossmodal to unimodal transfer of temporal perceptual learning. *Perception*,  53(11-12), 753-762.  https://doi.org/10.1177/03010066241270271 
+<p style="line-height:30;">             </p>
+
     
 -   Ju, N.S.*, **Guan, S.C.\***, Tang, S.M., &
     Yu, C. (2022) Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.  *Progress in Neurobiology*, 217, 102315. https://doi.org/10.1016/j.pneurobio.2022.102315
+<p style="line-height:30;">             </p>
+
     
 -   Xiong, Y.Z.*,**Guan, S.C.\***, & Yu, C. (2022)
     A supramodal and conceptual representation of subsecond time revealed with perceptual learning of temporal interval discrimination. *Scientific Reports*, 12(1), 1-9. https://doi.org/10.1038/s41598-022-14698-6
+<p style="line-height:30;">             </p>
+
 
 -   **Guan, S.C.\*,** Ju, N.S.\*, Tao, L., Tang, S.M.,&
     Yu, C. (2021). Functional organization of spatial frequency tuning in macaque V1 revealed with two-photon calcium imaging. *Progress in Neurobiology*, 205, 102120. https://doi.org/10.1016/j.pneurobio.2021.102120
+<p style="line-height:30;">             </p>
 
 
 -   Ju, N.S.*, **Guan, S.C.\*,** Tao, L., Tang,
     S.M., & Yu, C. (2021). Orientation tuning and end-stopping in
     macaque V1 studied with two-photon calcium imaging. *Cerebral
     Cortex*, 31(4), 2085-2097. https://doi.org/10.1093/cercor/bhaa346
+<p style="line-height:30;">             </p>
+
 
 -   **Guan, S.C.**, Zhang, S.H., Zhang, Y.C., Tang, S.M., & Yu, C.
     (2020). Plaid detectors in macaque V1 revealed by two-photon calcium
     imaging. *Current Biology*, 30(5), 934-940. https://doi.org/10.1016/j.cub.2020.01.005
+<p style="line-height:30;">             </p>
+
 
 -   Lin, L., Lee, C.H.,Kalyuga, S., Wang, Y., **Guan, S.C.**,  Wu, H.
     (2016). The Effect of Learner-Generated Drawing and Imagination in Comprehending a Science Text. *The Journal of Experimental Education*, 85(1), 142–154. https://doi.org/10.1080/00220973.2016.1143796
+<p style="line-height:30;">             </p>
+
     
 -   **Guan, S.C.**, Cheng, L., Luan, J.Y., & Li, X.C. (2015). Myopic
     decisions under negative emotions correlate with altered time
     perception. *Frontiers in Psychology*, 6, 468. https://doi.org/10.3389/fpsyg.2015.00468
+<p style="line-height:30;">             </p>
+
 
 -   Zhang, Y.Y., Hu, Y., **Guan, S.C.**, Hong, X.L., Wang, Z.X., & Li,
     X.C. (2014). Neural substrate of initiation of cross-modal working
     memory retrieval. *PLoS ONE*, 9(8). https://doi.org/10.1371/journal.pone.0103991
+<p style="line-height:30;">             </p>
+
 
 
 Conference Contributions
