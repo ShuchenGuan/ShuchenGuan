@@ -8,7 +8,7 @@ Peer-reviewed Publications
 
 -   Zhang, Y.\*, Agosti, Z.\*,  **Guan, S.C.**, Braun, D.I., & Gegenfurtner, K.R. (2025)
 Double training reveals an interval-invariant subsecond temporal structure in the brain. *Journal of the Optical Society of America A*,  42(5), B256-B265. https://doi.org/10.1364/JOSAA.545021
-<p style="line-height.30;">             </p>
+<p style="line-height:30;">             </p>
 
 -   **Guan, S.C.**, & Goettker, A. (2024)
     Individual differences reveal similarities in serial dependence effects across perceptual tasks, but not to oculomotor tasks. *Journal of Vision*,  24(12):2. https://doi.org/10.1167/jov.24.12.2.
