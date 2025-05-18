@@ -28,13 +28,12 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-<font size=5> I am a post-doctoral researcher in Prof. Karl Gegenfurtner's lab at Justus-Liebig-Universität Gießen. My research focuses on visual perception and its underlying neural mechanisms by combining psychophysics, eye-tracking, two-photon calcium imaging, and modeling.
+<font size=5> I am Shuchen Guan (官漱尘), a postdoctoral researcher in Prof. Karl Gegenfurtner’s lab at Justus-Liebig-Universität Gießen, Germany. My research employs psychophysics (both laboratory and online), eye-tracking, virtual reality, two-photon calcium imaging, and computational modeling to investigate visual perception and its underlying neural mechanisms.
 
-Lights exist everywhere, but how humans perceive the brightness of real-life illuminations is less studied. To address this, I use LED lamps to measure human brightness perception and their corresponding pupillary responses.
+My main research interests focus on **color vision**, particularly heterochromatic brightness—how color information is integrated to influence brightness perception—along with color constancy, hyperspectral imaging, and melanopsin responses. Beyond chromatic processing, I study achromatic visual features such as orientation, spatial frequency, and more complex nonlinear stimuli to better understand how perception arises from neuronal activity.
 
-Another question that intrigues me is how visual perception can be connected with neuronal activities. For example, how the brain discriminates different colors, how it assists us in maintaining color constancy, how it processes simple visual stimuli and higher-order complex stimuli. To study this, I apply two-photon calcium imaging to record neuronal responses in macaque monkeys.
-
-I am also interested in brain plasticity, particularly in multi-sensory perceptual learning. Using a specific training method, I found modality specificities can be easily erased. Visual learning can improve auditory perception and also vice versa. 
+I am also fascinated by the dynamics of perception, including **serial dependence**, which describes how recent visual experiences bias current perception, and **perceptual learning**, exploring how the visual and auditory systems adapt and interact through training.
+ 
 
 Interests:
 - Color vision: heterochromatic brightness, lights and illuminations, color constancy
