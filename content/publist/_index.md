@@ -73,8 +73,17 @@ Double training reveals an interval-invariant subsecond temporal structure in th
 
 Conference Contributions
 ------------------------
+-   **May.2024: Vision Science Society**
+   Guan, S.C., Ennis, R., & Gegenfurtner, K. Can we improve luminance? Online and lab experiments, **talk**. https://doi.org/10.1167/jov.24.10.998.
+<p style="line-height:30;">             </p>
+
+-   **May.2023: Vision Science Society**
+   Guan, S.C., Ennis, R., Toscani, M., Chen, J., & Gegenfurtner, K. Luminance and heterochromatic brightness, **poster**. https://doi.org/10.1167/jov.23.9.5514.
+<p style="line-height:30;">             </p>
+
+
 -   **Sept.2022: The European Conference on Visual Perception**
-   Guan, S.C., Toscani, M., & Gegenfurtner, K. How bright is your light?, **talk**. https://doi.org/10.1167/jov.20.11.1721
+   Guan, S.C., Toscani, M., & Gegenfurtner, K. How bright is your light?, **talk**.
 <p style="line-height:30;">             </p>
 
 
