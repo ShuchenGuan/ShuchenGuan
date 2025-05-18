@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 
-<font size=5> I am Shuchen Guan (官漱尘), a postdoctoral researcher in Prof. Karl Gegenfurtner’s lab at Justus-Liebig-Universität Gießen, Germany. My research employs **psychophysics** (both laboratory and online), **eye-tracking**, **virtual reality**, **two-photon calcium imaging**, and **computational modeling** to investigate visual perception and its underlying neural mechanisms.
+<font size=5> I am Shuchen Guan (官漱尘), a research scientist at Justus-Liebig-Universität Gießen, Germany. My research employs **psychophysics** (both laboratory and online), **eye-tracking**, **virtual reality**, **two-photon calcium imaging**, and **computational modeling** to investigate visual perception and its underlying neural mechanisms.
 
 My main research interests focus on **color vision**, particularly heterochromatic brightness—how color information is integrated to influence brightness perception—along with color constancy, hyperspectral imaging, and melanopsin responses. Beyond chromatic processing, I study achromatic visual features such as orientation, spatial frequency, and more complex nonlinear stimuli to better understand how perception arises from neuronal activity.
 
