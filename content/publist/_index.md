@@ -10,7 +10,7 @@ Peer-reviewed Publications
     
 -   Ju, N.S.*, **Guan, S.C.\***, Tang, S.M., &
     Yu, C. Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.
-    *Progress in Neurobiology* (in press).
+    *Progress in Neurobiology*, 217, 102315. https://doi.org/10.1016/j.pneurobio.2022.102315
     
 -   Xiong, Y.Z.*,**Guan, S.C.\***, & Yu, C. (2022)
     A supramodal and conceptual representation of subsecond time revealed with perceptual learning of temporal interval discrimination. *Scientific Reports*, 12(1), 1-9. https://doi.org/10.1038/s41598-022-14698-6
