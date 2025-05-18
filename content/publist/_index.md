@@ -76,38 +76,56 @@ Conference Contributions
 -   **May.2022: Vision Science Society**
     Guan, S.C., Toscani, M., & Gegenfurtner, K. Heterochromatic brightness perception of illuminants, 
     **poster**.
+    <p style="line-height:30;">             </p>
+    
 
 -   **May.2020: Vision Science Society**
     Guan, S.C., Zhao, X.N., Xiong, Y.Z., & Yu, C. Supramodal
     representation of subsecond time and the impact of its training on
     unimodal temporal interval discrimination, **talk**. https://doi.org/10.1167/jov.20.11.1721
+    <p style="line-height:30;">             </p>
+    
 
 -   **Aug.2019: The European Conference on Visual Perception**
     Guan, S.C., Ju, N.S., Tang, S.M., & Yu, C. Two-photon imaging of
     neural responses to complex stimulus patterns in macaque V1,
     **talk**. https://doi.org/10.1167/19.10.212d
+    <p style="line-height:30;">             </p>
+    
 
 -   **Nov.2018: Society for Neuroscience**
     Guan, S.C., Ju, N.S., Zhang, S.H., Tang, S.M., & Yu, C. Two-photon
     imaging evidence for cross-inhibition and cross-pattern detectors in
     macaque V1, **poster**. https://doi.org/10.1016/j.cub.2020.01.005
+    <p style="line-height:30;">             </p>
+    
 
 -   **Aug.2018: The European Conference on Visual Perception**
     Guan, S.C., Ju, N.S., Tang, S.M., & Yu, C. Two-photon imaging
     evidence for neurons specialized in 2nd-order stimulus processing in
     macaque V1, **talk**. https://journals.sagepub.com/doi/pdf/10.1177/0301006618824879
+    <p style="line-height:30;">             </p>
+    
 
 -   **May.2018: Vision Science Society**
     Guan, S.C., Ju, N.S., Tang, S.M., & Yu, C. Two-photon imaging
     evidence for spatial frequency and orientation tuning in macaque V1,
     **talk**. https://doi.org/10.1167/18.10.24
+    <p style="line-height:30;">             </p>
+    
 
 -   **Nov.2017: Society for Neuroscience**
     Guan, S.C., Ju, N.S., Tang, S.M., & Yu, C. Two-photon imaging
     evidence for neuronal responses to second-order gratings in macaque
     V1, **poster**.  https://www.sfn.org/meetings/neuroscience-2017/sessions-and-events
+    <p style="line-height:30;">             </p>
+    
 
 -   **May.2017: Vision Science Society**
     Guan, S.C., Xiong, Y.Z., & Yu, C. Mutual transfer between visual and
     auditory temporal interval learning supports a central clock in
     temporal processing, **poster**. https://doi.org/10.1167/17.10.518
+    <p style="line-height:30;">             </p>
+
+
+    
