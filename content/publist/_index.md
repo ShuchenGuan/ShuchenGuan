@@ -5,6 +5,9 @@ Publications
 
 Peer-reviewed Publications
 --------------------------
+-   Zhao, X.N.*, **Guan, S.C.\***, Xiong, Y.Z., & Yu, C. (2024)
+     Crossmodal to unimodal transfer of temporal perceptual learning. *Perception*,  53(11-12), 753-762.  https://doi.org/10.1177/03010066241270271 
+    
 -   Ju, N.S.*, **Guan, S.C.\***, Tang, S.M., &
     Yu, C. Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.
     *Progress in Neurobiology* (in press).
