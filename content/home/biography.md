@@ -38,6 +38,7 @@ I am also interested in brain plasticity, particularly in multi-sensory perceptu
 
 Interests:
 - Color vision: heterochromatic brightness, lights and illuminations, color constancy
+- Serial Dependence
 - Neural mechanism of vision
 - Perceptual learning
-- Auditory-visual integration </font>
+- Multisensory integration </font>
