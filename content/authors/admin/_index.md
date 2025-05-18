@@ -6,7 +6,7 @@ title: Shuchen Guan
 superuser: true
 
 # Role/position/tagline
-role: Post-doctoral Researcher in Psychology
+role: Research Scientist in Psychology
 
 # Organizations/Affiliations to show in About widget
 organizations:
