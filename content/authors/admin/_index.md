@@ -37,7 +37,7 @@ social:
   link: https://www.researchgate.net/profile/Shuchen-Guan
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.com/citations?hl=en&user=JkP8BCgAAAAJ&view_op=list_works&sortby=pubdate
+  link: https://scholar.google.com/citations?user=UbhqokkAAAAJ&hl=en&oi=ao
 - icon: dog
   icon_pack: fas 
   link: /dog/
