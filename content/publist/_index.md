@@ -12,10 +12,12 @@ Double training reveals an interval-invariant subsecond temporal structure in th
 
 -   **Guan, S.C.**, & Goettker, A. (2024)
     Individual differences reveal similarities in serial dependence effects across perceptual tasks, but not to oculomotor tasks. *Journal of Vision*,  24(12):2. https://doi.org/10.1167/jov.24.12.2.
+ <p style="line-height:30;">             </p>
     
     
 -   **Guan, S.C.\***, Xiong, Y.Z.*, & Yu, C. (2024)
     Double training reveals an interval-invariant subsecond temporal structure in the brain. *Journal of Experimental Psychology: Human Perception and Performance*,  50(12), 1225–1235.  https://doi.org/10.1177/03010066241270271
+<p style="line-height:30;">             </p>
     
 -   Zhao, X.N.*, **Guan, S.C.\***, Xiong, Y.Z., & Yu, C. (2024)
      Crossmodal to unimodal transfer of temporal perceptual learning. *Perception*,  53(11-12), 753-762.  https://doi.org/10.1177/03010066241270271 
