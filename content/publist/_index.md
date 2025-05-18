@@ -76,14 +76,14 @@ Conference Contributions
 -   **May.2022: Vision Science Society**
     Guan, S.C., Toscani, M., & Gegenfurtner, K. Heterochromatic brightness perception of illuminants, 
     **poster**.
-    <p style="line-height:30;">             </p>
+<p style="line-height:30;">             </p>
     
 
 -   **May.2020: Vision Science Society**
     Guan, S.C., Zhao, X.N., Xiong, Y.Z., & Yu, C. Supramodal
     representation of subsecond time and the impact of its training on
     unimodal temporal interval discrimination, **talk**. https://doi.org/10.1167/jov.20.11.1721
-    <p style="line-height:30;">             </p>
+<p style="line-height:30;">             </p>
     
 
 -   **Aug.2019: The European Conference on Visual Perception**
