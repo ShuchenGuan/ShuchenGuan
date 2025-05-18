@@ -73,6 +73,11 @@ Double training reveals an interval-invariant subsecond temporal structure in th
 
 Conference Contributions
 ------------------------
+-   **Sept.2022: The European Conference on Visual Perception**
+   Guan, S.C., Toscani, M., & Gegenfurtner, K. How bright is your light?, **talk**. https://doi.org/10.1167/jov.20.11.1721
+<p style="line-height:30;">             </p>
+
+
 -   **May.2022: Vision Science Society**
     Guan, S.C., Toscani, M., & Gegenfurtner, K. Heterochromatic brightness perception of illuminants, 
     **poster**. https://doi.org/10.1167/jov.22.14.4022
