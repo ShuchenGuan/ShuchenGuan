@@ -5,15 +5,17 @@ Publications
 
 Peer-reviewed Publications
 --------------------------
+-   **Guan, S.C.**, & Goettker, A. (2024)
+    Individual differences reveal similarities in serial dependence effects across perceptual tasks, but not to oculomotor tasks. *Journal of Vision*,  24(12):2. https://doi.org/10.1167/jov.24.12.2.
+    
 -   **Guan, S.C.\***, Xiong, Y.Z.*, & Yu, C. (2024)
-    Double training reveals an interval-invariant subsecond temporal structure in the brain. *Journal of Experimental Psychology: Human Perception and Performance*,  50(12), 1225–1235.  [https://doi.org/10.1177/03010066241270271]
+    Double training reveals an interval-invariant subsecond temporal structure in the brain. *Journal of Experimental Psychology: Human Perception and Performance*,  50(12), 1225–1235.  https://doi.org/10.1177/03010066241270271
     
 -   Zhao, X.N.*, **Guan, S.C.\***, Xiong, Y.Z., & Yu, C. (2024)
      Crossmodal to unimodal transfer of temporal perceptual learning. *Perception*,  53(11-12), 753-762.  https://doi.org/10.1177/03010066241270271 
     
 -   Ju, N.S.*, **Guan, S.C.\***, Tang, S.M., &
-    Yu, C. Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.
-    *Progress in Neurobiology*, 217, 102315. https://doi.org/10.1016/j.pneurobio.2022.102315
+    Yu, C. (2022) Macaque V1 responses to 2nd-order contrast-modulated stimuli and the possible subcortical and cortical contributions.  *Progress in Neurobiology*, 217, 102315. https://doi.org/10.1016/j.pneurobio.2022.102315
     
 -   Xiong, Y.Z.*,**Guan, S.C.\***, & Yu, C. (2022)
     A supramodal and conceptual representation of subsecond time revealed with perceptual learning of temporal interval discrimination. *Scientific Reports*, 12(1), 1-9. https://doi.org/10.1038/s41598-022-14698-6
