@@ -5,6 +5,9 @@ Publications
 
 Peer-reviewed Publications
 --------------------------
+-   **Guan, S.C.\***, Xiong, Y.Z.*, & Yu, C. (2024)
+    Double training reveals an interval-invariant subsecond temporal structure in the brain. *Journal of Experimental Psychology: Human Perception and Performance*,  50(12), 1225–1235.  [https://doi.org/10.1177/03010066241270271]
+    
 -   Zhao, X.N.*, **Guan, S.C.\***, Xiong, Y.Z., & Yu, C. (2024)
      Crossmodal to unimodal transfer of temporal perceptual learning. *Perception*,  53(11-12), 753-762.  https://doi.org/10.1177/03010066241270271 
     
