@@ -73,6 +73,14 @@ Double training reveals an interval-invariant subsecond temporal structure in th
 
 Conference Contributions
 ------------------------
+-   **Jan.2025:  Annual Colour Vision Meeting by The Colour Group (GB)**
+   Guan, S.C. Heterochromatic brightness and luminance, **talk**.
+<p style="line-height:30;">             </p>
+
+-   **Jul.2024: International Colour Vision Society**
+   Guan, S.C., Ennis, R., & Gegenfurtner, K. A comparative study of online and lab experiments for heterochromatic brightness, **talk**.
+<p style="line-height:30;">             </p>
+
 -   **May.2024: Vision Science Society**
    Guan, S.C., Ennis, R., & Gegenfurtner, K. Can we improve luminance? Online and lab experiments, **talk**. https://doi.org/10.1167/jov.24.10.998.
 <p style="line-height:30;">             </p>
