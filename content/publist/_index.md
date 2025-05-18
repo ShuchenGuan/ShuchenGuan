@@ -7,7 +7,7 @@ Peer-reviewed Publications
 --------------------------
 
 -   Zhang, Y.\*, Agosti, Z.\*,  **Guan, S.C.**, Braun, D.I., & Gegenfurtner, K.R. (2025)
-Double training reveals an interval-invariant subsecond temporal structure in the brain. *Journal of the Optical Society of America A*,  42(5), B256-B265. https://doi.org/10.1364/JOSAA.545021
+Dynamics of S-cone contributions to the initiation of saccadic and smooth pursuit eye movements. *Journal of the Optical Society of America A*,  42(5), B256-B265. https://doi.org/10.1364/JOSAA.545021
 <p style="line-height:30;">             </p>
 
 -   **Guan, S.C.**, & Goettker, A. (2024)
