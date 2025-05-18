@@ -36,6 +36,9 @@ Peer-reviewed Publications
     (2020). Plaid detectors in macaque V1 revealed by two-photon calcium
     imaging. *Current Biology*, 30(5), 934-940. https://doi.org/10.1016/j.cub.2020.01.005
 
+-   Lin, L., Lee, C.H.,Kalyuga, S., Wang, Y., **Guan, S.C.**,  Wu, H.
+    (2016). The Effect of Learner-Generated Drawing and Imagination in Comprehending a Science Text. *The Journal of Experimental Education*, 85(1), 142–154. https://doi.org/10.1080/00220973.2016.1143796
+    
 -   **Guan, S.C.**, Cheng, L., Luan, J.Y., & Li, X.C. (2015). Myopic
     decisions under negative emotions correlate with altered time
     perception. *Frontiers in Psychology*, 6, 468. https://doi.org/10.3389/fpsyg.2015.00468
